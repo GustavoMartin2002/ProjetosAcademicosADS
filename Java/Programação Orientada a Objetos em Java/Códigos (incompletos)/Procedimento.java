@@ -1,0 +1,5 @@
+
+class Procedimento {
+  private Consulta ;
+
+}
